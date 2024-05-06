@@ -1,11 +1,13 @@
 # Prepare for SC-200
 Let's break down the modules provided by Microsoft and time required for each module. Which totals to 55 hours in duration. 
 
-### SC200 Modules
+### SC-200 Modules
 
 | Module                                                         | Time Required |
 |----------------------------------------------------------------|---------------|
+Microsoft Defender XDR
 | Introduction to Microsoft Defender XDR threat protection       | 28 min        |
+Microsoft 365 Defender
 | Mitigate incidents using Microsoft 365 Defender                | 1 hr 11 min   |
 | Protect your identities with Microsoft Entra ID Protection      | 34 min        |
 | Remediate risks with Microsoft Defender for Office 365          | 49 min        |
