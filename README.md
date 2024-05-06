@@ -1,5 +1,5 @@
 # Prepare for SC-200
-Let's break down the course syllabus and their study material duration provided by [Microsoft](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
+Let's break down the course syllabus and their study material duration provided by [Microsoft Learn (2024 March Update)](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
 
 | Modules                                              | Time Required | Allocate |
 |-----------------------------------------------------------|---------------|---------------|
