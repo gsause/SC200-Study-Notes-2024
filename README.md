@@ -1,7 +1,7 @@
 # Prepare for SC-200
-Let's break down the course syllabus and their study material duration provided by [Microsoft](https://learn.microsoft.com/en-us/training/courses/sc-200t00). 
+Let's break down the course syllabus and their study material duration provided by [Microsoft](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
 
-| Module Topic                                              | Time Required |
+| Modules                                              | Time Required |
 |-----------------------------------------------------------|---------------|
 | **Microsoft XDR** - Introduction to Microsoft Defender XDR threat protection                | 28 min        |
 | **Microsoft 365 Defender** - Mitigate incidents using Microsoft 365 Defender                  | 1 hr 11 min    |
@@ -17,6 +17,12 @@ Let's break down the course syllabus and their study material duration provided 
 | **Defender for Cloud** - Plan for cloud workload protections using Microsoft Defender for Cloud, Connect Azure assets to Microsoft Defender for Cloud, Connect non-Azure resources to Microsoft Defender for Cloud, Manage your cloud security posture management, Explain cloud workload protections in Microsoft Defender for Cloud, Remediate security alerts using Microsoft Defender for Cloud | 4 hr 17 min |
 | **Microsoft Sentinel** - Construct KQL statements for Microsoft Sentinel, Analyze query results using KQL, Build multi-table statements using KQL, Work with data in Microsoft Sentinel using Kusto Query Language, Introduction to Microsoft Sentinel, Create and manage Microsoft Sentinel workspaces, Query logs in Microsoft Sentinel, Use watchlists in Microsoft Sentinel, Utilize threat intelligence in Microsoft Sentinel, Connect data to Microsoft Sentinel using data connectors, Connect Microsoft services to Microsoft Sentinel, Connect Microsoft Defender XDR to Microsoft Sentinel, Connect Windows hosts to Microsoft Sentinel, Connect Common Event Format logs to Microsoft Sentinel, Connect syslog data sources to Microsoft Sentinel, Connect threat indicators to Microsoft Sentinel, Threat detection with Microsoft Sentinel analytics, Automation in Microsoft Sentinel, Threat response with Microsoft Sentinel playbooks, Security incident management in Microsoft Sentinel, Identify threats with Behavioral Analytics, Data normalization in Microsoft Sentinel, Query, visualize, and monitor data in Microsoft Sentinel, Manage content in Microsoft Sentinel, Explain threat hunting concepts in Microsoft Sentinel, Threat hunting with Microsoft Sentinel, Use Search jobs in Microsoft Sentinel, Hunt for threats using notebooks in Microsoft Sentinel | 29 hr 47 min |
 
-Total time required for all modules: 56 hrs
+Total course material time of all modules: **56 hrs**
+
+Let's consider you allocate **2 hours every day**, it will take you 28 days to complete just the above study material. You will still require to add 0.5 hour for research and practice on every session and adding 2 more days as buffer for practicing mockups, it would take **30 days** if you stick with the plan. 
+
+
+
+
 
 
