@@ -1,5 +1,5 @@
 # Prepare for SC-200
-Let's break down the course syllabus and their study material duration provided by [Microsoft Learn (2024 March Update)](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
+Break down the course syllabus and their study material duration provided by [Microsoft Learn (2024 March Update)](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
 
 | Modules                                              | Content Duration | Schedule Study |
 |-----------------------------------------------------------|---------------|---------------|
@@ -20,7 +20,7 @@ Let's break down the course syllabus and their study material duration provided 
 
 Total course material time of all modules: **56 hrs**
 
-Let's consider you allocate **2 hours every day** and add 0.5 hour for research and practice on every session, it would take **30 days** if you stick with the plan. 
+Let's consider you allocate **2 hours every day** and add 0.5 hour for research and practice on every session, it would take **30 days** to complete this course with above.
 
 
 
