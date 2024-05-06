@@ -1,7 +1,7 @@
 # Prepare for SC-200
 Let's break down the course syllabus and their study material duration provided by [Microsoft Learn (2024 March Update)](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
 
-| Modules                                              | Time Required | Allocate |
+| Modules                                              | Content duration | Allocate |
 |-----------------------------------------------------------|---------------|---------------|
 | **Microsoft XDR** - Introduction to Microsoft Defender XDR threat protection                | 28 min        | 1 day |
 | **Microsoft 365 Defender** - Mitigate incidents using Microsoft 365 Defender                  | 1 hr 11 min    | 1 day |
