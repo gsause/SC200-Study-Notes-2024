@@ -1,11 +1,11 @@
 # Prepare for SC-200
 Break down the course syllabus and their study material duration provided by [Microsoft Learn (2024 March Update)](https://learn.microsoft.com/en-us/training/courses/sc-200t00) 
 
-| Modules                                              | Content Duration | Schedule Study |
-|-----------------------------------------------------------|---------------|---------------|
-| **Microsoft XDR** - Introduction to Microsoft Defender XDR threat protection                | 28 min        | 1 day |
-| **Microsoft 365 Defender** - Mitigate incidents using Microsoft 365 Defender                  | 1 hr 11 min    | 1 day |
-| **Entra ID Protection** - Protect your identities with Microsoft Entra ID Protection          | 34 min        | 1 day |
+| Modules                                              | Content Duration | Schedule Study | My Part-Time Study |
+|-----------------------------------------------------------|---------------|---------------|---------------|
+| **Microsoft XDR** - Introduction to Microsoft Defender XDR threat protection                | 28 min        | 1 day | 3 days |
+| **Microsoft 365 Defender** - Mitigate incidents using Microsoft 365 Defender                  | 1 hr 11 min    | 1 day | 10 days |
+| **Entra ID Protection** - Protect your identities with Microsoft Entra ID Protection          | 34 min        | 1 day | 
 | **Defender for Office 365** - Remediate risks with Microsoft Defender for Office 365          | 49 min        | 1 day |
 | **Defender for Identity** - Safeguard your environment with Microsoft Defender for Identity    | 1 hr 8 min    | 1 day |
 | **Defender for Cloud Apps** - Secure your cloud apps and services with Microsoft Defender for Cloud Apps | 1 hr 9 min  | 1 day |
